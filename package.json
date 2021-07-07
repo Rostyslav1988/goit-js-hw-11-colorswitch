@@ -1,5 +1,5 @@
 {
-  "name": "goit-js-hw-11-color-switch",
+  "name": "goit-js-hw-11-colorswitch",
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
@@ -14,12 +14,12 @@
     "url": "git+https://github.com/Rostyslav1988/goit-js-hw-11-colorswitch"
   },
   "keywords": [],
-  "author": "Bogdan Andrushchenko <bandrushchenko15@gmail.com>",
+  "author": "Rostyslav Bramirskyi <ross2ya@ukr.net>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bogdanAndrushchenko/goit-js-hw-11-color-switch/issues"
+    "url": "https://github.com/Rostyslav1988/goit-js-hw-11-colorswitch"
   },
-  "homepage": "https://bogdanAndrushchenko.github.io/goit-js-hw-11-color-switch",
+  "homepage": "https://Rostyslav1988.github.io/goit-js-hw-11-colorswitch",
   "devDependencies": {
     "@babel/core": "^7.11.6",
     "@babel/plugin-proposal-class-properties": "^7.10.4",
